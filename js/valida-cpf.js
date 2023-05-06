@@ -5,6 +5,8 @@ export default function ehUmCPF(campo){
     }else{
         console.log("Existe!");
     }
+
+    
 }
 
 function validaNumerosRepetidos(cpf){
